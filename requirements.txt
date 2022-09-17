@@ -12,7 +12,6 @@ pycodestyle==2.7.0
 PyGetWindow==0.0.9
 PyMsgBox==1.0.9
 pyperclip==1.8.2
-pypiwin32==223
 PyRect==0.1.4
 PyScreeze==0.1.27
 python-decouple==3.4
